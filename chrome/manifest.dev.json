@@ -2,7 +2,7 @@
   "version": "0.0.0",
   "name": "wa-tools-dev",
   "manifest_version": 2,
-  "description": "Example for react-chrome-extension-boilerplate",
+  "description": "Whatsapp web power user's tools",
   "browser_action": {
     "default_title": "React Chrome Extension Example",
     "default_popup": "popup.html"
