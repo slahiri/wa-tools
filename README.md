@@ -1,7 +1,7 @@
 # React Chrome Extension Boilerplate
 
-[![Build Status](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate.svg?branch=master)](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate)
-[![Build status: Windows](https://ci.appveyor.com/api/projects/status/b5xy6ev6oykth0d2/branch/master?svg=true)](https://ci.appveyor.com/project/jhen0409/react-chrome-extension-boilerplate/branch/master)
+[![Build Status](https://travis-ci.org/slahiri/wa-tools.svg?branch=main)](https://travis-ci.org/slahiri/wa-tools)
+[![Build status](https://ci.appveyor.com/api/projects/status/ahjk0shhfcf6h7ee/branch/main?svg=true)](https://ci.appveyor.com/project/lahirs2/wa-tools/branch/main)
 [![NPM version](http://img.shields.io/npm/v/react-chrome-extension-boilerplate.svg?style=flat)](https://www.npmjs.com/package/react-chrome-extension-boilerplate)
 [![Dependency Status](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate.svg)](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate)
 [![devDependency Status](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate/dev-status.svg)](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate#info=devDependencies)
